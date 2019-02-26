@@ -1,4 +1,3 @@
-"rsschool-2019Q1-htmlacademy" 
 "# rsschool-2019Q1-htmlacademy" 
-"# rsschool-2019Q1-htmlacademy" 
-"# rsschool-2019Q1-html-css" 
+Holubieva Marharyta
+HTML CSS Basics: https://htmlacademy.ru/profile/id1004801/progress
